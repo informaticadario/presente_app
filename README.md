@@ -1,16 +1,50 @@
-# appdocente
+# Presente App
 
-A new Flutter project.
+# 📲 Presente App - Control de Asistencia para Docentes
 
-## Getting Started
+Presente App es una herramienta pensada para **simplificar el control de asistencia escolar**, facilitando tareas administrativas y mejorando la experiencia del docente. Con un diseño moderno, animaciones sutiles y exportación a Excel, esta app convierte lo cotidiano en eficiente.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Función                              | Descripción                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| 📋 Lista automática numerada         | Generación dinámica de lista con números y orden alfabético por apellido.  |
+| ✏️ Edición y eliminación de grupos   | Opciones intuitivas para administrar estudiantes y grupos desde el menú.   |
+| 📤 Exportación a Excel               | Descarga de datos en formato `.xlsx` para reportes o respaldo.             |
+| 🧠 Animaciones y diseño moderno      | Interfaz atractiva con tipografía de Google Fonts y efectos visuales.      |
+| 🚀 Splash screen animado            | Pantalla de inicio con transiciones y estilo profesional.                   |
+| 🔌 Compatibilidad offline            | Funciona aún sin conexión, ideal para entornos educativos.                 |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Tecnologías utilizadas
+
+- **Flutter**: Framework principal para desarrollo multiplataforma.
+- **Firebase**: Base de datos en tiempo real para gestión eficiente de datos.
+- **flutter_animate**: Biblioteca de animaciones fluidas y modernas.
+- **Excel Export**: Integración para generación de reportes administrativos.
+- **Google Fonts**: Tipografía atractiva y profesional.
+
+---
+
+## 🖼️ Vista previa
+
+> 📌 
+
+---
+
+## 🧠 Autor
+
+Desarrollado por **Salem**, apasionado por la creación de herramientas educativas que combinan funcionalidad, accesibilidad y estética. ¡Siempre iterando para mejorar!
+
+---
+
+## 🌐 Repositorio
+
+[🔗 Visita el proyecto en GitHub](https://github.com/informaticadario/presente_app)
+
+---
+
+
