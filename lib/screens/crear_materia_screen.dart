@@ -32,8 +32,20 @@ class _CrearMateriaScreenState extends State<CrearMateriaScreen> {
                     fontWeight: FontWeight.w600,
                     color: Colors.grey[700], // opcional: mejor contraste
                   ),
-                  prefixIcon: Icon(Icons.book),
-                  border: OutlineInputBorder(),
+                  prefixIcon: Icon(Icons.book, color: const Color(0xFF007EA7)),
+                  filled: true,
+                  fillColor: const Color(0xFFF3F8FC), // fondo suave
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                    borderSide: BorderSide.none,
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                    borderSide: const BorderSide(
+                      color: Color(0xFF00A8E8),
+                      width: 2,
+                    ),
+                  ),
                 ),
                 style: GoogleFonts.poppins(
                   fontSize: 16,
@@ -55,8 +67,20 @@ class _CrearMateriaScreenState extends State<CrearMateriaScreen> {
                     fontWeight: FontWeight.w600,
                     color: Colors.grey[700], // opcional: mejor contraste
                   ),
-                  prefixIcon: Icon(Icons.group),
-                  border: OutlineInputBorder(),
+                  prefixIcon: Icon(Icons.group, color: const Color(0xFF007EA7)),
+                  filled: true,
+                  fillColor: const Color(0xFFF3F8FC), // fondo suave
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                    borderSide: BorderSide.none,
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(12),
+                    borderSide: const BorderSide(
+                      color: Color(0xFF00A8E8),
+                      width: 2,
+                    ),
+                  ),
                 ),
                 style: GoogleFonts.poppins(
                   fontSize: 16,
